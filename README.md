@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Keerthana
+### Hi 👋 I'm Keerthana
 
 <ul>
   <li>Data Enthusiast | Developing Skills in Data Cleaning, Analysis, and Visualization.</li>
