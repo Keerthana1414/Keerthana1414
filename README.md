@@ -2,7 +2,7 @@
 
 <ul>
   <li>Data Enthusiast | Developing Skills in Data Cleaning, Analysis, and Visualization.</li>
-  <li>I have a good knowledge in data cleaning and analysis and am constantly working on upskilling my storytelling abilities.</li>
+  <li>I possess strong skills in data cleaning and analysis and I am consistently striving to enhance my expertise in communicating insights through data storytelling.</li>
   <li>I'm passionate about transforming raw data into visually compelling stories.</li>
 </ul> 
 
